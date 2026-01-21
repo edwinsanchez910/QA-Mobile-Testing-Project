@@ -1,5 +1,5 @@
 # QA-Mobile-Testing-Project
-Este proyecto se centra en el testing integral de una aplicación móvil, aplicando técnicas de "Caja Negra" para asegurar una experiencia de usuario sin errores. Realicé pruebas de regresión, funcionales y de interfaz (UI), logrando identificar defectos críticos antes del lanzamiento.
+Este proyecto se centra en el testing integral de una aplicación móvil, aplicando técnicas de "Caja Negra" y "Caja gris" para asegurar una experiencia de usuario sin errores. Realicé pruebas de regresión, funcionales y de interfaz (UI), logrando identificar defectos críticos antes del lanzamiento.
 # Pruebas de Aplicación Móvil - Proyecto Final
 
 ## 📱 Descripción
