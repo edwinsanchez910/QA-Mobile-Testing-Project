@@ -3,7 +3,7 @@ Este proyecto se centra en el testing integral de una aplicación móvil, aplica
 # Pruebas de Aplicación Móvil - Proyecto Final
 
 ## 📱 Descripción
-Pruebas integrales de funcionalidad y usabilidad realizadas en un entorno móvil. Este proyecto demuestra mi capacidad para identificar defectos críticos en aplicaciones Android/iOS.
+Este proyecto se centra en el testing integral de una aplicación móvil, aplicando técnicas de Caja Negra para la validación funcional y Caja Gris mediante el uso de Logcat. Realicé pruebas de regresión, funcionales y de interfaz (UI), logrando identificar defectos críticos y excepciones del sistema a través del análisis de logs antes del lanzamiento
 
 ## 🛠️ Herramientas utilizadas
 * **Android Studio / Logcat** (para debugging y logs del sistema).
