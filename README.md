@@ -15,3 +15,7 @@ Pruebas integrales de funcionalidad y usabilidad realizadas en un entorno móvil
 * Ejecución de **casos de prueba funcionales** al 100%.
 * Reporte de errores de **severidad Alta y Crítica** relacionados con la interfaz y estabilidad.
 * Análisis de logs para identificar cuellos de botella en el rendimiento.
+### 📸 Evidencia de Ejecución
+| Gestión en Jira | Monitoreo en Android Studio |
+| :---: | :---: |
+| ![Jira](https://drive.google.com/file/d/1JTQK4cUT652hI1C4HM2f7ToiJ41fujya/view?usp=sharing) | ![AndroidStudio](https://drive.google.com/file/d/1eOuriW8DxOhNPaTRezpd1ZggTd_oPw_p/view?usp=sharing) |
